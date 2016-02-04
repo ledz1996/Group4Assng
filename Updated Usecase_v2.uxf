@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<diagram program="umlet" version="13.3">
+<diagram program="umlet" version="14.1.1">
   <zoom_level>9</zoom_level>
   <element>
     <id>UMLUseCase</id>
@@ -40,7 +40,7 @@
       <x>297</x>
       <y>306</y>
       <w>90</w>
-      <h>90</h>
+      <h>99</h>
     </coordinates>
     <panel_attributes>Club Member</panel_attributes>
     <additional_attributes/>
@@ -84,7 +84,7 @@
       <x>297</x>
       <y>513</y>
       <w>90</w>
-      <h>90</h>
+      <h>99</h>
     </coordinates>
     <panel_attributes>Club Manager</panel_attributes>
     <additional_attributes/>
@@ -164,7 +164,7 @@ Ranking/Access</panel_attributes>
       <x>1026</x>
       <y>351</y>
       <w>54</w>
-      <h>90</h>
+      <h>99</h>
     </coordinates>
     <panel_attributes>Admin</panel_attributes>
     <additional_attributes/>
@@ -410,5 +410,27 @@ Ranking/Access</panel_attributes>
     </coordinates>
     <panel_attributes/>
     <additional_attributes>10.0;10.0;80.0;180.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>513</x>
+      <y>621</y>
+      <w>108</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>Process booking</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>378</x>
+      <y>540</y>
+      <w>153</w>
+      <h>117</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;150.0;110.0</additional_attributes>
   </element>
 </diagram>
