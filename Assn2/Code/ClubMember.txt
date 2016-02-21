@@ -1,0 +1,7 @@
+tyco013;rejwrw;Ruan Deyjing;ledz1996@gmail.com;0932442;1;2;Using Restaurant;0.3;Playing basketball;0.5;
+uiop3290;123456;Qwerty Asdf;ewker@gmail.com;2304952;4;1;Playing basketball;0.5;
+zrgssss;1234567;Zerg Russian;wer345@gmail.com;23249581;5;3;Using swimming glasses;0.9;Playing basketball;0.5;Buying drink;0.4;
+pyp777;pylo43;Pylo the Pylon;pylon@gmail.com;3648243;3;2;Constructing Additional Pylons;0.5;Hatching Ultralisks;0.4;
+dnt2016;tforpres;Donald Trump;trump2016@gmail.com;7773281;9;2;Gambling money;0.7;Uses children playground;0.9;
+bern444;borc;Bernie Sanders;bernmim@yahoo.com;2043867;8;1;Hatching Ultralisks;0.6;
+3hill3;heorshe;Clinton;hilll23@gmail.com;9782319;6;3;Constructing Additional Pylons;0.8;Uses children playground;0.5;Playing basketball;0.7;
