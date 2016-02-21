@@ -460,8 +460,8 @@ Ranking/Access</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>369</x>
-      <y>63</y>
+      <x>351</x>
+      <y>45</y>
       <w>612</w>
       <h>675</h>
     </coordinates>
@@ -490,5 +490,27 @@ Ranking/Access</panel_attributes>
     <panel_attributes>lt=&lt;.
 &lt;&lt;include&gt;&gt;</panel_attributes>
     <additional_attributes>60.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>792</x>
+      <y>450</y>
+      <w>108</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>Update Member</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>882</x>
+      <y>360</y>
+      <w>144</w>
+      <h>117</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;110.0;140.0;10.0</additional_attributes>
   </element>
 </diagram>
